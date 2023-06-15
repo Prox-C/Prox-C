@@ -1,4 +1,4 @@
-<div style="font-family: Futura, sans-serif; font-weight: bold; font-style: italic;">
+<div style="font-family: Tahoma, sans-serif; font-weight: bold; font-style: italic;">
 
 # Hello World, I'm Deus.
 
