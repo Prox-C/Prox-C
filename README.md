@@ -6,4 +6,7 @@
   *A goal-oriented and eager-to-learn IT student with a passion for computers and all things tech*
 
 
+### • Stuff I do 
+
+I'm currently in my sophomore year at <a> where I'm taking a degree in *Information Technology*. Aside from the courses offered by our curriculum, I also take online courses such as the ever-so-popular Harvard CS50, spend a lot of time solving problems on Leetcode, and immerse myself in self-learning through various online resources and platforms. Although my interests gravitate towards front-end development, I ultimately aim in becoming a full-stack **Software Engineer**. 
  
