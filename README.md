@@ -21,7 +21,13 @@
 
 ### <img src="/assets/team.png" width="16"> Stuff I do 
 
-Aside from the courses offered by our curriculum, I also take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50 </a>, spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>, and immerse myself in self-learning through various online resources and platforms.
+Aside from the courses offered by our curriculum, I also:
+
+- Take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50 </a>
+
+- Spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>
+
+- Immerse myself in self-learning through various online resources and platforms.
 
 
 
