@@ -3,7 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=4000&pause=1500&color=20FF86&width=435&lines=I+write+code;I+build+computers;But+most+of+all+.+.+.;I+miss+you+%3Ac)](https://git.io/typing-svg)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prox-C&theme=soft-green&hide_border=true&card_width=600&background=EB545400)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Prox-C&theme=soft-green&hide_border=true&card_width=600&background=EB545400" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 ### I am
 - *A goal-oriented and eager-to-learn IT student with a passion for computers and all things tech*. 
