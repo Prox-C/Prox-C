@@ -10,7 +10,7 @@
 </p>
 
 
-### I am
+### About me
 - *A goal-oriented and eager-to-learn IT student with a passion for computers and all things tech*. 
 
  - *A sophomore at <a href="https://www.facebook.com/myEVSU?mibextid=ZbWKwL"> Eastern Visayas State University </a> taking a degree in **Information Technology***. 
@@ -19,6 +19,13 @@
 
 ### Stuff I do 
 
-Aside from the courses offered by our curriculum, I also take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50 </a>, spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>, and immerse myself in self-learning through various online resources and platforms. 
+Aside from the courses offered by our curriculum, I also take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50 </a>, spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>, and immerse myself in self-learning through various online resources and platforms.
+
+### Tech I've used
+<p align="center">
+  <a href="https://skills.thijs.gg">
+    <img src="https://skills.thijs.gg/icons?i=py,js,html,css,c,java,react,tailwind,ts&theme=light" alt="MySkills" />
+  </a>
+</p>
 
 Although my interests gravitate towards front-end development, I ultimately aim in becoming a full-stack **Software Engineer**. 
