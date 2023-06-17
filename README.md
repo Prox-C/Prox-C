@@ -10,6 +10,7 @@
 </p>
 
 
+
 ### About me
 - *A goal-oriented and eager-to-learn IT student with a passion for computers and all things tech*. 
 
@@ -17,9 +18,13 @@
 
 - *A self-taught programmer who specializes in software design and development*.
 
+
+
 ### Stuff I do 
 
 Aside from the courses offered by our curriculum, I also take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50 </a>, spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>, and immerse myself in self-learning through various online resources and platforms.
+
+
 
 ### Tech I've used
 <p align="center">
