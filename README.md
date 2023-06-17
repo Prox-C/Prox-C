@@ -25,7 +25,7 @@ Aside from the courses offered by our curriculum, I also take online courses suc
 
 
 
-### <img src="/assets/coding.png" width="16"> Tech I've used
+### <img src="/assets/code.png" width="16"> Tech I've used
 <p align="center">
   <a href="https://skills.thijs.gg">
     <img src="https://skills.thijs.gg/icons?i=py,js,html,css,c,java,react,tailwind,ts&theme=light" alt="MySkills" />
