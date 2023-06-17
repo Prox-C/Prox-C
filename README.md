@@ -5,14 +5,14 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Prox-C&theme=soft-green&hide_border=true&card_width=600&background=EB545400)](https://git.io/streak-stats)
 
-### • I am
+### I am
 - *A goal-oriented and eager-to-learn IT student with a passion for computers and all things tech*. 
 
  - *A sophomore at <a href="https://www.facebook.com/myEVSU?mibextid=ZbWKwL"> Eastern Visayas State University </a> taking a degree in **Information Technology***. 
 
 - *A self-taught programmer who specializes in software design and development*.
 
-### • Stuff I do 
+### Stuff I do 
 
 Aside from the courses offered by our curriculum, I also take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50 </a>, spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>, and immerse myself in self-learning through various online resources and platforms. 
 
