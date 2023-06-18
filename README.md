@@ -28,14 +28,29 @@ Aside from the courses offered by our curriculum, I also:
 - Spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>
 
 - Immerse myself in self-learning through various online resources and platforms.
+Programming & Markup Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,md,java,swift,ts,php,mysql"/>
+  </a>
+</p>
 
+Frameworks & Libraries 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,angular,vue,flutter,kotlin,django,mongodb,nodejs,nextjs," />
+  </a>
+</p>
+
+Tools and Software 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,autocad,androidstudio,git,gitlab,github" />
+  </a>
+</p>
 
 
 ### <img src="assets/programming-code-signs.png" width="16"> Tech I've used
-<p align="center">
-  <a href="https://skills.thijs.gg">
-    <img src="https://skills.thijs.gg/icons?i=py,js,html,css,c,java,react,tailwind,ts&theme=light" alt="MySkills" />
-  </a>
-</p>
+
 
 Although my interests gravitate towards front-end development, I ultimately aim in becoming a full-stack **Software Engineer**. 
