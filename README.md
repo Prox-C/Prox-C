@@ -15,7 +15,7 @@
 
  - *A sophomore at <a href="https://www.facebook.com/myEVSU?mibextid=ZbWKwL"> Eastern Visayas State University </a> taking a degree in **Information Technology***. 
 
-- *A self-taught programmer who specialize in software design and development*.
+- *A self-taught developer who specialize in UI/UX design*.
 
 
 
@@ -23,9 +23,9 @@
 
 Aside from the courses offered by our curriculum, I also:
 
-- Take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50 </a>
+- Take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50. </a>
 
-- Spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>
+- Spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode. </a>
 
 - Immerse myself in self-learning through various online resources and platforms.
 
