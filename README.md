@@ -32,21 +32,21 @@ Aside from the courses offered by our curriculum, I also:
 
 ### <img src="assets/programming-code-signs.png" width="16"> Tech I've used
  
-• Programming & Markup Languages
+#### • Programming & Markup Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,js,html,css,md,java,swift,ts,php,mysql"/>
   </a>
 </p>
 
-• Frameworks & Libraries 
+#### • Frameworks & Libraries 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,windicss,angular,vue,flutter,kotlin,django,mongodb,nextjs,nodejs"/>
   </a>
 </p>
 
-• Tools and Software 
+#### • Tools and Software 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,linux,androidstudio,git,gitlab,github"/>
