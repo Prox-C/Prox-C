@@ -45,7 +45,7 @@ Aside from the courses offered by our curriculum, I also:
   </a>
 </p>
 
-**• Tools & Software**
+**• Tools & Softwares**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,linux,androidstudio,git,gitlab,github"/>
