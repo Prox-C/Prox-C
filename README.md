@@ -28,29 +28,29 @@ Aside from the courses offered by our curriculum, I also:
 - Spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode </a>
 
 - Immerse myself in self-learning through various online resources and platforms.
-Programming & Markup Languages
+
+
+### <img src="assets/programming-code-signs.png" width="16"> Tech I've used
+ 
+• Programming & Markup Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,js,html,css,md,java,swift,ts,php,mysql"/>
   </a>
 </p>
 
-Frameworks & Libraries 
+• Frameworks & Libraries 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,angular,vue,flutter,kotlin,django,mongodb,nodejs,nextjs," />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,windicss,angular,vue,flutter,kotlin,django,mongodb,nextjs,nodejs"/>
   </a>
 </p>
 
-Tools and Software 
+• Tools and Software 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,autocad,androidstudio,git,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,linux,androidstudio,git,gitlab,github"/>
   </a>
 </p>
-
-
-### <img src="assets/programming-code-signs.png" width="16"> Tech I've used
-
 
 Although my interests gravitate towards front-end development, I ultimately aim in becoming a full-stack **Software Engineer**. 
