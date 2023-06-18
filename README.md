@@ -30,7 +30,7 @@ Aside from the courses offered by our curriculum, I also:
 - Immerse myself in self-learning through various online resources and platforms.
 
 
-### <img src="assets/programming-code-signs.png" width="16"> Tech I've used
+### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
  **• Programming Languages**
 <p align="center">
   <a href="https://skillicons.dev">
