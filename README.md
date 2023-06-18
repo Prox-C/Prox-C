@@ -11,11 +11,11 @@
 
 
 ### <img src="/assets/info.png" width="16"> About me
-- *A goal-oriented and eager-to-learn IT student with a passion for computers and all things tech*. 
+- *A goal-oriented and eager-to-learn student with a passion for computers and all things tech*. 
 
  - *A sophomore at <a href="https://www.facebook.com/myEVSU?mibextid=ZbWKwL"> Eastern Visayas State University </a> taking a degree in **Information Technology***. 
 
-- *A self-taught programmer who specializes in software design and development*.
+- *A self-taught programmer who specialize in software design and development*.
 
 
 
