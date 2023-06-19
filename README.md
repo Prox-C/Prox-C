@@ -34,14 +34,14 @@ Aside from the courses offered by our curriculum, I also:
  **• Programming Languages**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,md,java,swift,ts,php,mysql"/>
+    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,md,java,swift,ts,kotlin,mysql"/>
   </a>
 </p>
 
 **• Frameworks & Libraries**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,windicss,angular,vue,flutter,kotlin,django,mongodb,nextjs,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,windicss,bootstrap,angular,vue,flutter,django,mongodb,nextjs,nodejs"/>
   </a>
 </p>
 
