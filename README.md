@@ -29,7 +29,7 @@ Aside from the courses offered in our curriculum, I also:
 
 - Take online courses such as the world-renowned Harvard <a href="https://cs50.harvard.edu/x/2023/">CS50X</a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0">CS50T</a> where I have the opportunity to work with a diverse global community of passionate learners. 
 
-
+At present, I am studying standard development practices and paradigms to enhance my skills. My belief in project-based learning drives my pursuit, ensuring practical application and hands-on experience.
 
 
 ### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
