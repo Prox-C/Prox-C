@@ -54,4 +54,4 @@ At present, I am studying standard development practices and paradigms to enhanc
   </a>
 </p>
 
-Although my interests gravitate towards front-end development, I ultimately aim in becoming a full-stack **Software Engineer**. 
+These are the various technologies that I'm invested in. Some of these I've already worked with and some I'm currently exploring.  Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack **Software Engineer**.
