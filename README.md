@@ -29,12 +29,12 @@ Aside from the courses offered in our curriculum, I also:
 
 - Actively engage in dev forums, including esteemed communities like <a href="https://leetcode.com/">Leetcode</a> and <a href="https://stackoverflow.com/">Stack Overflow</a> where I gain exposure to diverse perspectives and learn from experienced professionals. 
 
-- Take online courses such as the world-renowned Harvard <a href="https://cs50.harvard.edu/x/2023/">CS50X</a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0">CS50T</a> where I have the opportunity to work with a diverse global community of passionate learners. 
+- Take online courses such as the world-renowned Harvard <a href="https://cs50.harvard.edu/x/2023/">CS50X</a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0">CS50T</a> where I have the privilege to work with a diverse global community of passionate learners. 
 
 
 ### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
 
-These are the various technologies that I'm invested in. Some of these I've already worked with and some I'm currently exploring.  Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack *Software Engineer*.
+These are the various technologies that I am invested in. Some of these I have already worked with and some I am currently exploring.  Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack *Software Engineer*.
  
  **• Programming Languages**
 <p align="center">
