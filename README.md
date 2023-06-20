@@ -19,15 +19,17 @@
 
 
 
-### <img src="/assets/team.png" width="16"> Stuff I do 
+### <img src="/assets/team.png" width="16"> Stuff I do
 
-Aside from the courses offered by our curriculum, I also:
+Aside from the courses offered in our curriculum, I also:
 
-- Take online courses such as the ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science"> Harvard CS50. </a>
+Immerse in self-learning and skill enhancement through active participation in esteemed coding bootcamps and renowned platforms such as <a href="https://www.codecademy.com/learn"> Codeacademy </a>, <a href="https://www.codewars.com/"> Codewars </a>, and <a href="https://www.sololearn.com/"> SoloLearn </a>. 
 
-- Spend a lot of time solving problems on <a href="https://leetcode.com/problemset/all/"> Leetcode. </a>
+Actively engage with dev forums, including esteemed communities like <a href="https://leetcode.com/"> Leetcode </a> and <a href="https://stackoverflow.com/"> Stack Overflow </a> where I gain exposure to diverse perspectives and learn from experienced professionals. 
 
-- Immerse myself in self-learning through various online resources and platforms.
+Take online courses such as the world-renowned Harvard <a href="https://cs50.harvard.edu/x/2023/"> CS50X </a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0"> CS50T </a> where I have the opportunity to work with a diverse global community of passionate learners. 
+
+
 
 
 ### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
