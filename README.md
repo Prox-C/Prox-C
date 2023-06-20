@@ -23,11 +23,11 @@
 
 Aside from the courses offered in our curriculum, I also:
 
-Immerse in self-learning and skill enhancement through active participation in esteemed coding bootcamps and renowned platforms such as <a href="https://www.codecademy.com/learn"> Codeacademy </a>, <a href="https://www.codewars.com/"> Codewars </a>, and <a href="https://www.sololearn.com/"> SoloLearn </a>. 
+Immerse in self-learning and skill enhancement through active participation in esteemed coding bootcamps and platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.codewars.com/">Codewars</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
 
-Actively engage with dev forums, including esteemed communities like <a href="https://leetcode.com/"> Leetcode </a> and <a href="https://stackoverflow.com/"> Stack Overflow </a> where I gain exposure to diverse perspectives and learn from experienced professionals. 
+Actively engage with dev forums, including esteemed communities like <a href="https://leetcode.com/">Leetcode</a> and <a href="https://stackoverflow.com/">Stack Overflow</a> where I gain exposure to diverse perspectives and learn from experienced professionals. 
 
-Take online courses such as the world-renowned Harvard <a href="https://cs50.harvard.edu/x/2023/"> CS50X </a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0"> CS50T </a> where I have the opportunity to work with a diverse global community of passionate learners. 
+Take online courses such as the world-renowned Harvard <a href="https://cs50.harvard.edu/x/2023/">CS50X</a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0">CS50T</a> where I have the opportunity to work with a diverse global community of passionate learners. 
 
 
 
