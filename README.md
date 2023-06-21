@@ -11,6 +11,9 @@
 
 
 ### <img src="/assets/info.png" width="16"> About me
+
+Hello world! I am **Amadeus Gravoso**, a 19 year old software engineer aspirant based in the Philippines. I am: 
+
 - *A goal-oriented and eager-to-learn undergrad student with a passion for computers and all things tech*. 
 
  - *A sophomore at <a href="https://www.facebook.com/myEVSU?mibextid=ZbWKwL"> Eastern Visayas State University </a> taking a degree in **Information Technology***. 
