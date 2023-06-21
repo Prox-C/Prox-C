@@ -11,7 +11,7 @@
 
 
 ### <img src="/assets/info.png" width="16"> About me
-- *A goal-oriented and eager-to-learn student with a passion for computers and all things tech*. 
+- *A goal-oriented and eager-to-learn undergrad student with a passion for computers and all things tech*. 
 
  - *A sophomore at <a href="https://www.facebook.com/myEVSU?mibextid=ZbWKwL"> Eastern Visayas State University </a> taking a degree in **Information Technology***. 
 
