@@ -50,7 +50,7 @@ These are the various technologies that I am invested in. Some of these I have a
   </a>
 </p>
 
-**• Tools & Softwares**
+**• Tools & Environments**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,linux,androidstudio,git,gitlab,github"/>
