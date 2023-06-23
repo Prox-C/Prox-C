@@ -9,7 +9,6 @@
   </a>
 </p>
 
-<br>
 
 ### <img src="/assets/info.png" width="16"> About me
 
