@@ -28,7 +28,7 @@ At present, I am studying standard development practices and paradigms to enhanc
 
 Aside from the courses offered in our curriculum, I also:
 
-- Immerse in self-learning and skill enhancement through active participation in acclaimed platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.codewars.com/">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
+- Immerse in self-learning and skill enhancement through active participation in acclaimed platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.theodinproject.com">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
 
 - Actively engage in dev forums, including esteemed communities like <a href="https://leetcode.com/">Leetcode</a> and <a href="https://stackoverflow.com/">Stack Overflow</a> where I gain exposure to diverse perspectives and learn from experienced professionals. 
 
