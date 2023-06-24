@@ -1,4 +1,4 @@
-<h1> Hi, I'm Deus. <img src="/assets/giphy.webp" width="50"></h1>
+e Odin Project <h1> Hi, I'm Deus. <img src="/assets/giphy.webp" width="50"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=4000&pause=1500&color=20FF86&width=435&lines=I+write+code;I+build+computers;But+most+of+all+.+.+.;I+miss+you+%3Ac)](https://git.io/typing-svg)
 
@@ -28,7 +28,7 @@ At present, I am studying standard development practices and paradigms to enhanc
 
 Aside from the courses offered in our curriculum, I also:
 
-- Immerse in self-learning and skill enhancement through active participation in acclaimed coding bootcamps and platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.codewars.com/">Codewars</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
+- Immerse in self-learning and skill enhancement through active participation in acclaimed platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.codewars.com/">Th</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
 
 - Actively engage in dev forums, including esteemed communities like <a href="https://leetcode.com/">Leetcode</a> and <a href="https://stackoverflow.com/">Stack Overflow</a> where I gain exposure to diverse perspectives and learn from experienced professionals. 
 
