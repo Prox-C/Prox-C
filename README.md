@@ -26,7 +26,7 @@ Hello world! I am **Amadeus Gravoso**, a 19 year old software engineer aspirant 
 
 At present, I am studying standard development practices and paradigms to enhance my skills. My belief in project-based learning drives this pursuit, ensuring practical application and hands-on experience. 
 
-Aside from the courses offered in our curriculum, I also:
+In addition to the courses offered in our curriculum, I also:
 
 - Immerse in self-learning and skill enhancement through active participation in acclaimed platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.theodinproject.com">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
 
