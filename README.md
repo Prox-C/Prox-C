@@ -42,7 +42,7 @@ The following are some of the technologies that I am invested in. Among these ar
  **• Programming Languages**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,md,java,swift,ts,kotlin,mysql"/>
+    <img src="https://skillicons.dev/icons?i=js,c,py,html,css,ts,md,java,swift,kotlin,mysql"/>
   </a>
 </p>
 
