@@ -37,7 +37,7 @@ In addition to the courses offered in our curriculum, I also:
 
 ### <img src="assets/programming-code-signs.png" width="16"> My Nerd Stack
 
-The following are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack Software Engineer.
+Here are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack Software Engineer.
  
  <details>
   <summary> Tech Stack </summary>
