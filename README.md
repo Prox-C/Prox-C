@@ -39,23 +39,28 @@ In addition to the courses offered in our curriculum, I also:
 
 The following are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack Software Engineer.
  
- **• Programming Languages**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,c,py,html,css,ts,md,java,swift,kotlin,mysql"/>
-  </a>
-</p>
+ <details>
+  <summary> View stack </summary>
 
-**• Frameworks & Libraries**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,windicss,angular,vue,flutter,django,mongodb,nextjs,nodejs"/>
-  </a>
-</p>
+  **• Programming Languages**
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,c,py,html,css,ts,md,java,swift,kotlin,mysql"/>
+    </a>
+  </p>
 
-**• Tools & Environments**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,linux,androidstudio,git,gitlab,github"/>
-  </a>
-</p>
+  **• Frameworks & Libraries**
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,redux,tailwind,windicss,angular,vue,flutter,django,mongodb,nextjs,nodejs"/>
+    </a>
+  </p>
+
+  **• Tools & Environments**
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,linux,androidstudio,git,gitlab,github"/>
+    </a>
+  </p>
+
+</details> 
