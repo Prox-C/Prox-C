@@ -35,14 +35,15 @@ In addition to the courses offered in our curriculum, I also:
 - Take online courses such as Harvard's world-renowned <a href="https://cs50.harvard.edu/x/2023/">CS50X</a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0">CS50T</a> where I have the privilege to work with a diverse global community of passionate learners. 
 
 
-### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
+### <img src="assets/programming-code-signs.png" width="16"> My Nerd Stack
 
 The following are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack Software Engineer.
  
  <details>
-  <summary> View stack </summary>
-
-  **• Programming Languages**
+  <summary> Tech Stack </summary>
+   <br>
+   
+   **• Programming Languages**
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,c,py,html,css,ts,md,java,swift,kotlin,mysql"/>
