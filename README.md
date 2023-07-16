@@ -24,7 +24,7 @@ Hello world! I am **Amadeus Gravoso**, a 19 year old software engineer aspirant 
 
 ### <img src="/assets/team.png" width="16"> Stuff I do
 
-At present, I am studying standard development practices and paradigms to enhance my skills. My belief in project-based learning drives this pursuit, ensuring practical application and hands-on experience. 
+Currently, I am studying standard development practices and paradigms to enhance my skills. My belief in project-based learning drives this pursuit, ensuring practical application and hands-on experience. 
 
 In addition to the courses offered in our curriculum, I also:
 
