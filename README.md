@@ -9,7 +9,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/mozarnt.prx-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> <img src="https://img.shields.io/badge/every_good_boi_does_fine.-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> <img src="https://img.shields.io/badge/amadeus_gravoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+<a href="https://www.facebook.com/mozarnt.prx?mibextid=ZbWKwL" > <img src="https://img.shields.io/badge/mozarnt.prx-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a><a href"https://open.spotify.com/playlist/5fJJ2X8cHxDZLb5bRbsDXj?si=x5kciaQQRGqi5woXoNTMCw"> <img src="https://img.shields.io/badge/every_good_boi_does_fine.-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a><a href="https://www.linkedin.com/in/amadeus-gravoso-092019x?trk=contact-info" ><img src="https://img.shields.io/badge/amadeus_gravoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+
 </p>
 
 
