@@ -7,6 +7,11 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Prox-C&theme=soft-green&hide_border=true&card_width=600&background=EB545400" alt="GitHub Streak" />
   </a>
+
+  <img src="https://img.shields.io/badge/mozarnt.prx-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
+<img src="https://img.shields.io/badge/every_good_boi_does_fine.-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/amadeus_gravoso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+
 </p>
 
 
