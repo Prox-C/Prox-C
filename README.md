@@ -7,7 +7,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Prox-C&theme=soft-green&hide_border=true&card_width=600&background=EB545400" alt="GitHub Streak" />
   </a>
-
 <details>
   <summary> Socials </summary>
 </p>
