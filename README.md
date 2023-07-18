@@ -33,9 +33,9 @@ Currently, I am studying standard development practices and paradigms to enhance
 
 In addition to the courses offered in our curriculum, I also:
 
-- Immerse in self-learning and skill enhancement through active participation in acclaimed platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.theodinproject.com">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
+- Immerse in self-learning through active participation in acclaimed platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.theodinproject.com">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
 
-- Actively engage in dev forums, including esteemed communities like <a href="https://leetcode.com/">Leetcode</a> and <a href="https://stackoverflow.com/">Stack Overflow</a> where I gain exposure to diverse perspectives and learn from experienced professionals. 
+- Actively engage in dev forums, including esteemed communities like <a href="https://leetcode.com/">Leetcode</a> and <a href="https://stackoverflow.com/">Stack Overflow</a> where I gain exposure to diverse perspective. 
 
 - Take online courses such as Harvard's world-renowned <a href="https://cs50.harvard.edu/x/2023/">CS50X</a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0">CS50T</a> where I have the privilege to work with a diverse global community of passionate learners. 
 
