@@ -43,7 +43,7 @@ In addition to the courses offered in our curriculum, I also:
 
 ### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
 
-Here are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack Software Engineer.
+Here are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. 
  
  <details>
   <summary> My Stack </summary>
@@ -69,5 +69,7 @@ Here are some of the technologies that I am invested in. Among these are program
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,stackoverflow,powershell,bash,linux,androidstudio,git,gitlab,github"/>
     </a>
   </p>
+
+> Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack Software Engineer.
 
 </details> 
