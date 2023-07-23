@@ -36,7 +36,7 @@ Currently, I'm in my sophomore year at <a href=""> Eastern Visayas State Univers
 
 - *Object-Oriented Programming (Encapsulation, Modulation, Polymorphism, Abstraction)*
   
-- *Data Structures and Algorithms (Nodes & Sorting Algorithms)*
+- *Data Structures and Algorithms (Sorting Algorithms, Big-O Notation)*
 </details>
 
 
