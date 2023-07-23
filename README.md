@@ -17,35 +17,37 @@
 
 ### <img src="/assets/info.png" width="16"> About me
 
-Hello world! I am **Amadeus Gravoso**, a 19 year old software engineer aspirant and creative visual designer based in the Philippines. I am: 
+Hello world! I'm **Amadeus Gravoso**, a 19 year old software engineer aspirant and creative visual designer based in the Philippines. I am: 
 
-- *A goal-oriented undergrad student with a passion for computers and all things tech*. 
+- *a goal-oriented undergrad student with a passion for computers and all things tech*.
+  
+- *a self-taught developer who specialize in UI/UX design*.
 
- - *A sophomore at <a href="https://www.facebook.com/myEVSU?mibextid=ZbWKwL"> Eastern Visayas State University </a> taking a degree in **Information Technology***. 
-
-- *A self-taught developer who specialize in UI/UX design*.
-
-
-
+- *your average stereotypical coffee-driven guy.*
+<br><br>
 ### <img src="/assets/team.png" width="16"> Stuff I do
 
-Currently, I am studying standard development practices and paradigms to enhance my skills. My belief in project-based learning drives this pursuit, ensuring practical application and hands-on experience. 
+Currently, I'm in my sophomore year at <a href=""> Eastern Visayas State University </a> where I take a degree in **Information Technology** studying standard development practices and paradigms to further enhance my crafts. My belief in project-based learning aids in this pursuit, ensuring practical application and hands-on experience. 
 
-In addition to the courses offered in our curriculum, I also:
+<details>
+<summary> Work in progress: </summary><br>
+  
+  > In addition to the courses that our program requires us to take, I also immerse in self-learning through platforms like <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.theodinproject.com">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. <br><br>Additionally, I take online courses such as Harvard's ever-so-popular CS50X and I do Leetcode in preparation for my (delusional) developer career. 
 
-- Immerse in self-learning through active participation in platforms such as <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.theodinproject.com">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>. 
+**Currently Learning:**
 
-- Actively engage in dev forums and esteemed communities like <a href="https://leetcode.com/">Leetcode</a> and <a href="https://stackoverflow.com/">Stack Overflow</a> where I gain exposure to diverse perspectives. 
+- *Object-Oriented Programming (Encapsulation, Modulation, Polymorphism, Abstraction)*
+  
+- *Data Structures and Algorithms (Nodes & Sorting Algorithms)*
 
-- Take online courses such as Harvard's world-renowned <a href="https://cs50.harvard.edu/x/2023/">CS50X</a> and <a href="https://pll.harvard.edu/course/cs50s-understanding-technology-0">CS50T</a> where I have the privilege to work with a diverse global community of passionate learners. 
-
+</details>
 
 ### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
 
 Here are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. 
  
  <details>
-  <summary> My Stack </summary>
+  <summary> My stack </summary>
    <br>
    
    **• Programming Languages**
