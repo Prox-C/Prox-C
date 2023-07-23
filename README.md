@@ -41,7 +41,7 @@ Currently, I'm in my sophomore year at <a href=""> Eastern Visayas State Univers
 - *Data Structures and Algorithms (Nodes & Sorting Algorithms)*
 
 </details>
-
+<br><br>
 ### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
 
 Here are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. 
