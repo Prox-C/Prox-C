@@ -45,7 +45,7 @@ Currently, I'm in my sophomore year at <a href="https://www.facebook.com/DuqnetV
 Here are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. 
  
  <details>
-  <summary> My stack </summary>
+  <summary> My stack: </summary>
    <br>
    
    **• Programming Languages**
