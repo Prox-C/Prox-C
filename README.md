@@ -40,7 +40,7 @@ Currently, I'm in my sophomore year at <a href="https://www.facebook.com/DuqnetV
 </details>
 
 
-### <img src="assets/programming-code-signs.png" width="16"> My Tech Stack
+### <img src="assets/programming-code-signs.png" width="16"> My tech stack
 
 Here are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. 
  
