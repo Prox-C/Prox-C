@@ -69,6 +69,6 @@ Here are some of the technologies that I am invested in. Among these are program
     </a>
   </p>
 
-> Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack Software Engineer.
+> Evidently, my interests gravitate towards front-end web and mobile development. However, I ultimately aim in becoming a full-stack software engineer.
 
 </details> 
