@@ -15,7 +15,9 @@
 
 ## <img src="/assets/info.png" width="20"> About me
 
-Hello world! I'm **Amadeus Gravoso**, a 19 year old software engineer aspirant and creative visual designer based in the Philippines. I am: 
+Hello world! I'm **Amadeus Gravoso**, a 19 year old software engineer aspirant and creative visual designer based in the Philippines. 
+
+I am: 
 
 - *a goal-oriented undergrad student with a passion for computers and all things tech*.
   
