@@ -31,6 +31,7 @@ Currently, I'm in my sophomore year at <a href="https://www.facebook.com/DuqnetV
 
 <details>
 <summary> Work in progress: </summary><br>
+  <img src="/assets/giphy (1).gif" width="600" height="200">
   
   > In addition to the courses that our program requires us to take, I also immerse in self-learning through platforms like <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.theodinproject.com">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>.<br><br>Furthermore, I take online courses such as Harvard's ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50X</a> and I *occasionally* do <a href="https://leetcode.com/problemset/all/">Leetcode</a> in preparation for my developer career. 
 
