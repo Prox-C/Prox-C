@@ -18,7 +18,7 @@
 Hello world! I'm **Amadeus Gravoso**, a 19 year old software engineer aspirant and creative visual designer based in the Philippines. Your stereotypical coffee-driven guy with a passion for computers and all things tech. 
 
 <details>
-  <summary> Status quo </summary>
+  <summary> Status quo (2022)</summary>
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="/assets/giphy.gif" width="100">
