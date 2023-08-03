@@ -15,7 +15,7 @@
 
 ## <img src="/assets/info.png" width="20"> About me
 
-Hello world! The name's **Amadeus Gravoso**, a 19 year old software engineer aspirant and creative visual designer based in the Philippines. I'm your stereotypical coffee-driven guy with a passion for computers and all things tech. 
+Hello world! I'm **Amadeus Gravoso**, a 19 year old software engineer aspirant and creative visual designer based in the Philippines. Yours truly is a stereotypical coffee-driven guy with a passion for computers and all things tech. 
 
 <details>
   <summary> Status quo </summary>
