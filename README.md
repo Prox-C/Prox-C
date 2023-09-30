@@ -10,7 +10,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://www.facebook.com/mozarnt.prx?mibextid=ZbWKwL" > <img src="https://img.shields.io/badge/mozarnt.prx-20FF86?style=for-the-badge&logo=facebook&logoColor=white"> </a><a href="https://open.spotify.com/playlist/5fJJ2X8cHxDZLb5bRbsDXj"> <img src="https://img.shields.io/badge/every_good_boi_does_fine.-20FF86?&style=for-the-badge&logo=spotify&logoColor=white"> </a><a href="https://www.linkedin.com/in/amadeus-gravoso-092019x?trk=contact-info" ><img src="https://img.shields.io/badge/amadeus_gravoso-20FF86?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://www.facebook.com/mozarnt.prx?mibextid=ZbWKwL" > <img src="https://img.shields.io/badge/mozarnt.prx-20FF86?style=for-the-badge&logo=facebook&logoColor=white"> </a><a href="https://open.spotify.com/playlist/5fJJ2X8cHxDZLb5bRbsDXj"> <img src="https://img.shields.io/badge/every_good_boi_does_fine.-20FF86?&style=for-the-badge&logo=spotify&logoColor=white"> </a><a href="https://www.linkedin.com/in/rudeuss.prx-092019x?trk=contact-info" ><img src="https://img.shields.io/badge/rudeuss.prx-20FF86?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
 </p>
 
 ## <img src="/assets/info.png" width="20"> About me
