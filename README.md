@@ -44,6 +44,7 @@ Currently, I'm in my sophomore year at <a href="https://www.facebook.com/DuqnetV
 - *Data Structures and Algorithms*
 - *Operating Systems*
 - *Networking*
+</details>
 
 ## <img src="assets/programming-code-signs.png" width="20"> My tech stack
 
