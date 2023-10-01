@@ -40,11 +40,10 @@ Currently, I'm in my sophomore year at <a href="https://www.facebook.com/DuqnetV
 
 **Currently mastering:**
 
-- *Object-Oriented Programming (Encapsulation, Modulation, Polymorphism, Abstraction)*
-  
-- *Data Structures and Algorithms (Sorting Algorithms, Big-O Notation)*
-</details>
-
+- *Object-Oriented Programming 
+- *Data Structures and Algorithms
+- *Operating Systems
+- *Networking
 
 ## <img src="assets/programming-code-signs.png" width="20"> My tech stack
 
