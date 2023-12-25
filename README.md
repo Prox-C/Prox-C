@@ -21,10 +21,10 @@ Hello world! I'm **Amadeus Gravoso**, a 20 year old software engineer aspirant a
   <summary> Status quo </summary>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="/assets/giphy (2).gif" width="100">
-      </a><br><em>
-      We can go in a walk tommorow,<br>Or we can catch up in a year,<br>I'll see you when I'll see you,<br>But until then, take care. 
-   </em></p>
+        <img src="/assets/giphy.gif" width="100">
+      </a><br>
+      Stay a li'l while :/ 
+     </p>
 </details>
 
 
