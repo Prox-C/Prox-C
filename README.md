@@ -31,7 +31,7 @@ Hello world! I'm **Amadeus Gravoso**, a 20 year old software engineer aspirant a
 
 ## <img src="/assets/team.png" width="20"> Stuff I do
 
-Currently, I am a sophomore at <a href="https://www.facebook.com/DuqnetVipGamingTacloban?mibextid=ZbWKwL"> Eastern Visayas State University </a> where I'm pursuing a degree in **Information Technology** studying standard development practices and paradigms to further enhance my crafts. My belief in project-based learning aids in this pursuit, ensuring practical application and hands-on experience. 
+Currently, I am a sophomore at <a href="https://www.facebook.com/DuqnetVipGamingTacloban?mibextid=ZbWKwL"> Eastern Visayas State University </a> where I'm pursuing a degree in **Information Technology** studying industry-standard practices to further enhance my crafts. My belief in project-based learning aids in this pursuit, ensuring practical application and hands-on experience. 
 
 <details>
 <summary> Work in progress </summary><br>
@@ -40,10 +40,7 @@ Currently, I am a sophomore at <a href="https://www.facebook.com/DuqnetVipGaming
 
 **Currently studying:**
 
-- *Object-Oriented Programming*
-- *Data Structures and Algorithms*
-- *Operating Systems*
-- *Networking*
+At the moment, I'm mastering web design and development.
 </details>
 
 ## <img src="assets/programming-code-signs.png" width="20"> My tech stack
