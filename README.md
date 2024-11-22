@@ -23,9 +23,9 @@ Hello world! I'm **Amadeus Gravoso**, a software engineer aspirant and creative 
   <summary> Status quo </summary>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="/assets/giphy.gif" width="100">
+        <img src="assets/kirby.gif" width="100">
       </a><br>
-      Stay a li'l while :/ 
+      steady as she goes
      </p>
 </details>
 
