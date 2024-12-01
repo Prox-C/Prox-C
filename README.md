@@ -33,22 +33,11 @@ Hello world! I'm **Amadeus Gravoso**, a full-stack software engineer and creativ
 
 ## <img src="/assets/team.png" width="20"> Stuff I do
 
-Currently, I am a sophomore at <a href="https://www.facebook.com/DuqnetVipGamingTacloban?mibextid=ZbWKwL"> Eastern Visayas State University </a> where I'm pursuing a degree in **Information Technology** studying industry-standard practices to further enhance my crafts. My belief in project-based learning aids in this pursuit, ensuring practical application and hands-on experience. 
 
-<details>
-<summary> Work in progress </summary><br>
-  
-  > In addition to the courses that our program requires us to take, I also immerse in self-learning through platforms like <a href="https://www.codecademy.com/learn">Codeacademy</a>, <a href="https://www.theodinproject.com">The Odin Project</a>, and <a href="https://www.sololearn.com/">SoloLearn</a>.<br><br>Furthermore, I take online courses such as Harvard's ever-so-popular <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50X</a> and I *occasionally* do <a href="https://leetcode.com/problemset/all/">Leetcode</a> in preparation for my developer career. 
-
-**Currently studying:**
-
-At the moment, I'm mastering web design and development.
-</details>
 
 ## <img src="assets/programming-code-signs.png" width="20"> My tech stack
 
 Here are some of the technologies that I am invested in. Among these are programming and markup languages, frameworks, libraries, development environments, and software tools that I have used and worked with or am currently exploring. 
- 
  <details>
   <summary> My stack </summary>
    <br>
