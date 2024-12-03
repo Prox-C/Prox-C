@@ -31,9 +31,12 @@ Hello world! I'm **Amadeus Gravoso**, a full-stack software engineer and creativ
 
 
 
-## <img src="/assets/team.png" width="20"> Stuff I do
+## <img src="/assets/heart.png" width="18"> Stuff I do
+***I Write Code***<br>
+Programming is kinda my main thing. Making websites, mobile applications, and software brings joy to my heart.
 
-
+***I Build Computers***<br>
+As someone who works in tech, I spend an *unhealthy* amount of time on my computer. This more-than-occasional exposure to computer hardware is what lead me to develop an intrest in PC-building which eventually got me into the whole PC master race shii. 
 
 ## <img src="assets/programming-code-signs.png" width="20"> My tech stack
 
