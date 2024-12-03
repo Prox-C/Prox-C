@@ -32,17 +32,14 @@ Hello world! I'm **Amadeus Gravoso**, a full-stack software engineer and creativ
 
 
 ## <img src="/assets/heart.png" width="18"> Stuff I do
-**I write code**<br>
-I design and develop software that brings ideas to life. From scripting simple utilities to building complex systems, I use code to solve problems, create functionality, and make technology work seamlessly. 
+I create functional systems by combining technical expertise and creativity, whether assembling powerful computers or crafting efficient solutions to challenges. With a logical approach and attention to detail, I enjoy turning ideas into reality and transforming obstacles into opportunities for growth and innovation.
 
-**I build computers**<br>
-My hands-on expertise extends beyond software. I piece together the hardware that powers innovation, understanding the synergy between systems to bring technology to life, one component at a time.
-
-**I solve problems**<br>
-Challenges fuel my creativity. From debugging intricate database issues to optimizing workflows, I approach every problem with a clear focus on efficiency and functionality, ensuring my solutions are robust and impactful.
-
-**I miss you**<br>
-pdbilwselmao
+<details>
+  <summary>Work in progress</summary>
+   <p>
+     At the moment, I am exploring various front-end technologies and learning the principles of UI and UX in order to further elevate my craft. As someone who believes in project-based learning, I am also independetly developing and managing a couple of full-stack projects to better equip myself with industry standard practices. 
+   </p>
+</details>
 
 ## <img src="assets/programming-code-signs.png" width="20"> My tech stack
 
