@@ -42,7 +42,7 @@ My hands-on expertise extends beyond software. I piece together the hardware tha
 Challenges fuel my creativity. From debugging intricate database issues to optimizing workflows, I approach every problem with a clear focus on efficiency and functionality, ensuring my solutions are robust and impactful.
 
 **I miss you**<br>
-Need I say more? imissyoubalikkana :/
+Need I say more? make haste and return unto me skibidi gyat
 
 ## <img src="assets/programming-code-signs.png" width="20"> My tech stack
 
