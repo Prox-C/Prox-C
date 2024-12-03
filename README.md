@@ -35,7 +35,7 @@ Hello world! I'm **Amadeus Gravoso**, a full-stack software engineer and creativ
 I create functional systems by combining technical expertise and creativity, whether assembling powerful computers or crafting efficient solutions to challenges. With a logical approach and attention to detail, I enjoy turning ideas into reality and transforming obstacles into opportunities for growth and innovation.
 
 <details>
-  <summary>Work in progress</summary>
+  <summary>Work in progress</summary><br>
    <p>
      At the moment, I am exploring various front-end technologies and learning the principles of UI and UX in order to further elevate my craft. As someone who believes in project-based learning, I am also independetly developing and managing a couple of full-stack projects to better equip myself with industry standard practices. 
    </p>
