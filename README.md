@@ -37,7 +37,7 @@ I create functional systems by combining technical expertise and creativity, whe
 <details>
   <summary>Work in progress</summary><br>
    <p>
-     At the moment, I am exploring various front-end technologies and learning the principles of UI and UX in order to further elevate my craft. As someone who believes in project-based learning, I am also independetly developing and managing a couple of full-stack projects to better equip myself with industry standard practices. 
+     At the moment, I am exploring various front-end technologies and learning the principles of UI and UX in order to further elevate my craft. As someone who believes in project-based learning, I am also independently developing and managing a couple of full-stack projects to better equip myself with industry standard practices. 
    </p>
 </details>
 
