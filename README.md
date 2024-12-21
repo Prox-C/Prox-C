@@ -37,7 +37,7 @@ At the moment, I am exploring various front-end technologies and learning the pr
 <details>
   <summary>Work in progress</summary><br>
    <p>
-     Gyatdamn
+     Gyat
    </p>
 </details>
 
