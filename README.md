@@ -36,9 +36,11 @@ At the moment, I am exploring various front-end technologies and learning the pr
 
 <details>
   <summary>Work in progress</summary><br>
-   <p>
-     hays
-   </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,dart,flutter"/>
+    </a>
+  </p>
 </details>
 
 ## <img src="assets/programming-code-signs.png" width="20"> My tech stack
