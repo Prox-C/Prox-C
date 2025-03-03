@@ -1,4 +1,4 @@
-<h1> Hi, I'm Broke asf. <img src="/assets/giphy.webp" width="50"></h1>
+<h1> Hi, I'm Deus. <img src="/assets/giphy.webp" width="50"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=4000&pause=1250&color=20FF86&width=435&lines=i+write+code;i+build+computers;i+solve+problems;i+miss+you+%3Ac)](https://git.io/typing-svg)
 
