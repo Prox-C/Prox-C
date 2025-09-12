@@ -60,7 +60,7 @@ Here are some of the technologies that I am invested in. Among these are program
   **• Frameworks & Libraries**
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,windicss,angular,vue,flutter,django,mongodb,nextjs,nodejs"/>
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,windicss,dart,vue,flutter,django,mongodb,nextjs,nodejs"/>
     </a>
   </p>
 
