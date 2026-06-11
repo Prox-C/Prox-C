@@ -17,7 +17,7 @@
 
 ## <img src="/assets/info.png" width="20"> About me
 
-Hello world! I'm **Amadeus Gravoso**, a software engineer who specialize in frontend development and a creative visual designer based in the Philippines 🇵🇭. Driven by my passion for computers and all things tech, I turn imaginative ideas into practical solutions. 
+Hello world! I'm **Amadeus Gravoso**, a software engineer who specialize in front end development and a creative visual designer based in the Philippines 🇵🇭. Driven by my passion for computers and all things tech, I turn imaginative ideas into practical solutions. 
 
 <details>
   <summary> Status quo </summary>
